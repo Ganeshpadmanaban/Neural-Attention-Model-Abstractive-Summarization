@@ -1,0 +1,4 @@
+genism
+theano=0.8.2
+nltk
+
